@@ -1,0 +1,47 @@
+8 8
+********
+********
+********
+********
+********
+********
+********
+********
+10
+4 3
+AAA
+AAA
+A
+A
+2 5
+BBBBB
+BB
+2 4
+CCCC
+CC
+3 5
+DDD
+  D
+  DDD
+4 3
+EEE
+E
+E
+E
+3 3
+FFF
+F
+F
+2 3
+GGG
+G
+3 3
+HHH
+HHH
+HH
+2 3
+III
+II
+2 4
+JJJJ
+JJJJ

@@ -1,0 +1,143 @@
+15 15
+***************
+***************
+***************
+***************
+***************
+***************
+*****.....*****
+*****.....*****
+*****.....*****
+***************
+***************
+***************
+***************
+***************
+***************
+35
+1 6
+AAAAAA
+2 5
+    B
+BBBBB
+2 5
+   C
+CCCCC
+2 5
+  D
+DDDDD
+2 4
+  EE
+EEEE
+2 4
+ F F
+FFFF
+2 4
+G  G
+GGGG
+3 4
+   H
+   H
+HHHH
+2 4
+ II
+IIII
+3 4
+  J
+  J
+JJJJ
+3 4
+   K
+KKKK
+   K
+3 4
+  L
+LLLL
+   L
+3 4
+ M
+MMMM
+   M
+3 4
+N
+NNNN
+   N
+3 4
+ O
+OOOO
+  O
+3 4
+  P
+PPPP
+  P
+2 5
+   QQ
+QQQQ
+3 4
+ R
+RR
+ RRR
+2 4
+SS S
+ SSS
+2 5
+TTT
+  TTT
+2 4
+UUU
+ UUU
+3 4
+  V
+VVV
+  VV
+3 4
+ W
+WWW
+  WW
+3 4
+XX
+ X
+ XXX
+3 4
+Y
+YY
+ YYY
+2 3
+ZZZ
+ZZZ
+3 3
+  a
+ aa
+aaa
+3 3
+ bb
+  b
+bbb
+3 4
+cc
+ ccc
+   c
+3 3
+  d
+ddd
+ dd
+3 3
+ e
+eee
+ ee
+3 3
+ff
+ ff
+ ff
+3 3
+ g
+ggg
+g g
+3 3
+  h
+hhh
+h h
+3 4
+ii
+ ii
+  ii
