@@ -1,6 +1,6 @@
 # Polyominoes
 
-Polyominoes puzzle solver that is a generalization of my Kanoodle program: https://github.com/HoustonWeHaveABug/Kanoodle.
+Polyominoes puzzle solver that is a generalization of my Kanoodle program: https://github.com/HoustonWeHaveABug/Kanoodle. It is a solution to challenge https://old.reddit.com/r/dailyprogrammer/comments/8t4440/20180622_challenge_364_hard_tiling_with_pentominos/.
 
 This program may handle puzzles with holes, and accepts degenerate solutions including only a part of the pieces. It displays the first solution found and counts the total number of solutions (including rotated/flipped).
 
